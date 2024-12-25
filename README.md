@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Full Stack Web Developer and Mobile App Developer🧑‍💻</p>
+<p align="left">I'm Full Stack Developer🧑‍💻</p>
 
 ###
 
