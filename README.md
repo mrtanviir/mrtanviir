@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✋I am Tanvir, a passionate and versatile Full Stack Web Developer and Mobile App Developer,<br>currently pursuing a degree in Software Engineering. With a strong foundation in both front-end and back-end technologies, I excel at creating seamless, user-friendly applications and websites. My skill set spans a range of modern technologies, including React.js, Next.js, and Flutter, enabling me to deliver high-quality solutions across different platforms.</p>
+<p align="left">✋I am Tanvir, a passionate and versatile Full Stack App Developer,<br>currently pursuing a degree in Software Engineering. With a strong foundation in both front-end and back-end technologies, I excel at creating seamless, user-friendly applications and websites. My skill set spans a range of modern technologies, including React.js, Next.js, and Flutter, enabling me to deliver high-quality solutions across different platforms.</p>
 
 ###
 
